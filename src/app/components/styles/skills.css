@@ -1,0 +1,22 @@
+/* styles/skills.css */
+.container {
+    padding: 20px;
+  }
+  
+  h1, h2 {
+    color: #333;
+  }
+  
+  ul {
+    padding-left: 20px;
+  }
+  
+  ul li {
+    font-size: 1.1rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  section {
+    margin-bottom: 30px;
+  }
+  

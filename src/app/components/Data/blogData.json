@@ -1,0 +1,24 @@
+[
+    {
+      "image": "/assets/book01.jpg",
+      "title": "Khwaab Gharonda",
+      "category": "Poetry",
+      "date": "14 April 2014",
+      "description": "Collection of Urdu Poetry by Zahida Raees Raji."
+    },
+    {
+      "image": "/assets/book02.jpg",
+      "title": "Bey Kessah a Mana Waab Naet",
+      "category": "Fiction",
+      "date": "10 Oct 2016",
+      "description": "Collection of Balochi Short Stories by Zahida Raees Raji."
+    },
+    {
+      "image": "/assets/book03.jpg",
+      "title": "Paad e Cheyr e Zimmin",
+      "category": "Fiction",
+      "date": "14 May 2018",
+      "description": "Balochi Novelette by Zahida Raees Raji."
+    }
+  ]
+  
