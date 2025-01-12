@@ -5,7 +5,7 @@ export default function Page() {
   return (
     <div>
       <Skills />
-      <Footer2 />
+      
     </div>
   );
 }
